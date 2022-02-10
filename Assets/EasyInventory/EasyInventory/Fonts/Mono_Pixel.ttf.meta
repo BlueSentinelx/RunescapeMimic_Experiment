@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 1d8ba2ce8ff835745b621ca9cd752296
+timeCreated: 1495347895
+licenseType: Store
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: basis33
+  fontNames:
+  - Mono_Pixel
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
